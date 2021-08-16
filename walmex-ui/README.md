@@ -1,0 +1,1 @@
+Run Command npm start once you run the backend API application at http://localhost:3000
